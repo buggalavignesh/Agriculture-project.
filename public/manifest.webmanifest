@@ -1,0 +1,17 @@
+{
+  "name": "CropMate Offline 🌱 - AI Farming Assistant",
+  "short_name": "CropMate",
+  "description": "Offline AI Crop Helper with Voice Assistant and Vision Crop Doctor for farmers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1f12",
+  "theme_color": "#1b4332",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
